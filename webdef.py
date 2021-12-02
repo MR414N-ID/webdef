@@ -10,17 +10,29 @@ except ImportError:
 os.system("clear")
 os.system("toilet SILAHKAN|lolcat")
 os.system("toilet CHAT|lolcat")
-os.system("toilet WAl |lolcat")
+os.system("toilet WA |lolcat")
 os.system("toilet GUE|lolcat")
 os.system("toilet MR.414N|lolcat -a")
 os.system('termux-open https://wa.me/15512131770')
 os.system("clear")
 os.system("toilet LANOX|lolcat")
 banner = """
+
+░██╗░░░░░░░██╗███████╗██████╗░██████╗░███████╗███████╗
+░██║░░██╗░░██║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+░╚██╗████╗██╔╝█████╗░░██████╦╝██║░░██║█████╗░░█████╗░░
+░░████╔═████║░██╔══╝░░██╔══██╗██║░░██║██╔══╝░░██╔══╝░░
+░░╚██╔╝░╚██╔╝░███████╗██████╦╝██████╔╝███████╗██║░░░░░
+░░░╚═╝░░░╚═╝░░╚══════╝╚═════╝░╚═════╝░╚══════╝╚═╝░░░░░
+
+
+█▀▄▀█ █▀█ ░ █░█ ▄█ █░█ █▄░█
+█░▀░█ █▀▄ ▄ ▀▀█ ░█ ▀▀█ █░▀█
 ═════════════════════════════════════════════════════
 [+] Author  : MR.414N
 [+] Github  : github.com/MR414N-ID
 [+] WA      : 082292838634
+[+] WA2     : +15512131770
 ═════════════════════════════════════════════════════
 [+] PESAN   : jika sc deface/ sc html km blm ad di sini
              silahkan pindahkan ke sini yang gak tau
